@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="FacetManager">
+    <facet type="jpa" name="JPA">
+      <configuration>
+        <setting name="validation-enabled" value="true" />
+        <setting name="provider-name" value="Hibernate" />
+        <datasource-mapping>
+          <factory-entry name="dream-shops" value="ba063cd7-7a7d-4214-84d0-a1c71fc6e3f8" />
+          <factory-entry name="entityManagerFactory" value="ba063cd7-7a7d-4214-84d0-a1c71fc6e3f8" />
+        </datasource-mapping>
+        <naming-strategy-map />
+      </configuration>
+    </facet>
+  </component>
+</module>
